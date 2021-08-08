@@ -192,7 +192,7 @@ INC_IN_REC_MAGISK := true
 # Addons will be shown in the "Tweaks" section of SHRP.
 
 # Custom addon folder. Do not forget to put a "/" at the end of the path!
-SHRP_EXTERNAL_ADDON_PATH := "device/<device-brand>/$(SHRP_DEVICE_CODE)/<AddonFolderName>/"
+SHRP_EXTERNAL_ADDON_PATH := "device/WALTON/$(SHRP_DEVICE_CODE)/<AddonFolderName>/"
 
 # Addon #1 - Name
 SHRP_EXTERNAL_ADDON_1_NAME := "LOS Recorder"
